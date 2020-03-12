@@ -12,3 +12,8 @@ class Dancer
 
 
 end
+
+class Dancer
+  extend MetaDancing
+end
+end
