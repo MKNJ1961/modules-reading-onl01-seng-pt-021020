@@ -29,11 +29,10 @@ module FancyDance
     extend FancyDance::ClassMethods
     include FancyDance::InstanceMethods
   end
-    
+
 
     def metadata
       "This class produces objects that love to dance."
     end
   end
 end
- 
